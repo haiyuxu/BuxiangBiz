@@ -1,0 +1,7 @@
+{
+  "name": "不象商务 (Buxiang Business)",
+  "description": "A premium localized service application for Yueyang, Hunan, featuring local e-commerce, business clubhouse booking, and concierge services for returnees.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
